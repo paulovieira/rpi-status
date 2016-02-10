@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "blipp": "^2.3.0",
+    "boom": "^2.10.0",
+    "fs-extra": "^0.26.5",
+    "glue": "^2.2.0",
+    "hapi-nunjucks": "paulovieira/hapi-nunjucks",
+    "hoek": "2.x.x",
+    "nconf": "^0.8.4",
+    "vision": "^3.0.0"
+  }
+}
